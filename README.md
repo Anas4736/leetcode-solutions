@@ -45,3 +45,15 @@ The purpose of this repository is to document my journey in **Data Structures an
 ---
 
 **Note:** This repository is automatically updated using **LeetHub** whenever I successfully solve a problem on LeetCode.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anas4736/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Anas4736/leetcode-solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
